@@ -62,7 +62,7 @@ AIHindi-Tutor applies these principles in a real production environment, demonst
 The following reference architecture represents the production-oriented system design applied in AIHindi-Tutor, emphasizing responsible AI usage, consent-first workflows, and secure handling of child learning data.
 
 📐 Architecture diagram:  
-[Reference System Architecture](docs/architecture/reference-architecture.png)
+[Reference System Architecture](docs/architecture/2026-01-AIHindiTutor-Reference-Architecture.png)
 
 ---
 
