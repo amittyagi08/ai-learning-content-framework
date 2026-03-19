@@ -77,7 +77,7 @@ Key capabilities include:
 - Evaluation framework for agentic AI learning systems, measuring instructional reliability, safety governance, and personalization effectiveness  
 
 - Project website: https://aihindi-tutor.com  
-- Project background & research context: https://aihindi-tutor.com/founder
+- Project background & research context: https://aihindi-tutor.com/project-background
 
 
 ---
@@ -139,8 +139,9 @@ Constructive feedback and thoughtful discussions are welcome.
 
 ## About the Author
 
-This framework is authored and maintained by **Amit Tyagi**, founder and architect of AIHindi-Tutor.
+This framework is authored and maintained by Amit Tyagi, architect of AIHindi-Tutor and researcher in agentic AI learning systems.
 
+- Research & Publications Website: https://amittyagi08.github.io/
 - GitHub: https://github.com/amittyagi08  
 - LinkedIn: https://www.linkedin.com/in/amit-tyagi-96675360/  
 - Microsoft Learn Profile: https://learn.microsoft.com/en-us/users/amittyagi-0296/
